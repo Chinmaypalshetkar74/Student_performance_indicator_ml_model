@@ -1,0 +1,10 @@
+[ 2025-06-26 16:38:11,135] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-06-26 16:38:11,153] 97 werkzeug - INFO -  * Debugger PIN: 131-206-950
+[ 2025-06-26 16:40:06,335] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:06] "GET / HTTP/1.1" 200 -
+[ 2025-06-26 16:40:06,441] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-06-26 16:40:11,461] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:11] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-06-26 16:40:48,887] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:48] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-06-26 16:40:49,154] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:49] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-06-26 16:40:49,235] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:49] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-06-26 16:40:49,585] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:49] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=x53d8nBBLOOfGKTr3Hfb HTTP/1.1" 200 -
+[ 2025-06-26 16:40:49,852] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jun/2025 16:40:49] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -

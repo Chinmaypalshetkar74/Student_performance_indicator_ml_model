@@ -1,0 +1,12 @@
+[ 2025-06-26 12:29:26,712] 27 root - INFO - Entered the data ingestion method or component
+[ 2025-06-26 12:29:26,736] 30 root - INFO - Read the dataset as dataframe 
+[ 2025-06-26 12:29:26,747] 36 root - INFO -  Train test Split initiated
+[ 2025-06-26 12:29:26,755] 42 root - INFO - ingestion of the data is completed 
+[ 2025-06-26 12:29:26,794] 74 root - INFO - Read train and test data completed
+[ 2025-06-26 12:29:26,794] 75 root - INFO - obtaining preprocessing object
+[ 2025-06-26 12:29:26,794] 53 root - INFO - numerical columns: ['writing score', 'reading score']
+[ 2025-06-26 12:29:26,794] 55 root - INFO - Categorical columns: ['gender', 'race/ethnicity', 'parental level of education', 'lunch', 'test preparation course']
+[ 2025-06-26 12:29:26,797] 88 root - INFO - Applying preprocessing object on training dataframe and testing dataframe
+[ 2025-06-26 12:29:26,820] 103 root - INFO - saved preprocessing object.
+[ 2025-06-26 12:29:26,823] 32 root - INFO - Splitting training and testing input data
+[ 2025-06-26 12:29:26,835] 67 root - INFO - Best model found: Linear Regression with R2 Score: 0.8777636218225319
